@@ -1,0 +1,21 @@
+[{
+        "id": 1,
+        "nome": "João Victor Marcelino",
+        "telefone": "1499282982",
+        "email": "joaoma@gmail.com",
+        "tipoDeProfissional": "Analista",
+        "situacao": true,
+        "updatedAt": "10/09/2021",
+        "createdAt": "10/09/2021"
+    },
+    {
+        "id": 2,
+        "nome": "Bruno",
+        "telefone": "1499282982",
+        "email": "bruno@gmail.com",
+        "tipoDeProfissional": "Desenvolvedor",
+        "situacao": true,
+        "updatedAt": "10/09/2021",
+        "createdAt": "10/09/2021"
+    }
+]
